@@ -5,3 +5,7 @@ theme: jekyll-theme-architect # The theme you want to use for your site
 
 # Build settings
 markdown: kramdown
+
+# Specify the source and destination directories
+source: .
+destination: ./_site
