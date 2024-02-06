@@ -1,5 +1,5 @@
 ## FTC OPR 2021- 2022 Freight Frenzy Dashboard
-![OPR and NPR Score Dashboard](images/opr-npr-dashboard.PNG)
+![OPR and NPR Score Dashboard](images/opr-npr-dashboard.png)
 
 Alliance selection and strategy has long been an integral component of the FIRST Tech Challenge. Regardless of whether it is just discussing alliance strategy for a qualification match or alliance selection for elimination matches, understanding gaps in one’s own team as well as how those gaps can be bridged when working in conjunction with an alliance partner is crucial.
 
