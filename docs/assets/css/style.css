@@ -1,1 +1,7 @@
+# Site settings
+title: Serena Yin's Portfolio
+description: A portfolio showcase of Serena's past work examples and projects
+theme: jekyll-theme-architect # The theme you want to use for your site
 
+# Build settings
+markdown: kramdown
