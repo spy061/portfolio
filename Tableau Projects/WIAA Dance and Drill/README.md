@@ -1,4 +1,5 @@
 ## WIAA Dance/Drill 2021 - 2022 Season Scores Dashboard
+![Scores Dashboard](/images/Scores-Dashboard.PNG)
 
 As dance and drill teams compete during the season, their scores are published online through the Washington State Dance and Drill Coaches Association. Since dance and drill teams compete in different categories as well as different competitions, many teams are not able to comprehensively assess their advantages against other teams.
 
