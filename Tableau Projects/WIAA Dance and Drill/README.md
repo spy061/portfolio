@@ -1,4 +1,4 @@
-### WIAA Dance/Drill 2021 - 2022 Season Scores Dashboard
+## WIAA Dance/Drill 2021 - 2022 Season Scores Dashboard
 
 As dance and drill teams compete during the season, their scores are published online through the Washington State Dance and Drill Coaches Association. Since dance and drill teams compete in different categories as well as different competitions, many teams are not able to comprehensively assess their advantages against other teams.
 
@@ -6,12 +6,12 @@ As a result, this Tableau Dashboard reports all of the scores across WIAA dance/
 
 To access the dashboard, please click [here](https://public.tableau.com/app/profile/serena.yin/viz/WIAADanceDrill21-22/Scores).
 
-#### Specifications
+### Specifications
 The data of this dashboard is pulled from the [official website](https://www.wsddca.com/regular-season) of Washington State Dance and Drill Coaches Association (WSDDCA).
 
 Data is not automated and is pulled periodically.
 
-##### Data Fields:
+### Data Fields:
 
 **Team Routine:** the school name and category that they compete in
 
