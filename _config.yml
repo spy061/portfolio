@@ -8,4 +8,4 @@ markdown: kramdown
 
 # Specify the source and destination directories
 source: .
-destination: ./_site
+destination: ./github/workspace/docs
