@@ -1,0 +1,359 @@
+Year, Country, Funding Category, Foreign Assistance (USD), ODA (USD)
+2022, Yemen, Total, 391,389,127, 386,620,245
+2022, Yemen, General Programme Assistance, 301,994,577, 301,994,577
+2022, Yemen, Commodity Aid, 20,681,625, 17,594,231
+2022, Yemen, Health, 18,817,692, 18,817,692
+2022, Yemen, Construction and Civil Development, 17,559,892, 17,559,892
+2022, Yemen, Social Services, 13,076,642, 11,395,164
+2022, Yemen, Transport and Storage, 12,398,857, 12,398,857
+2022, Yemen, Education, 6,663,785, 6,663,785
+2022, Yemen, Water and Sanitation, 196,057, 196,057
+2022, Ethiopia, Total, 182,333,175, 175,981,277
+2022, Ethiopia, Commodity Aid, 89,725,873, 89,681,441
+2022, Ethiopia, Health, 77,120,228, 76,869,405
+2022, Ethiopia, Industry, 6,530,137, 6,530,137
+2022, Ethiopia, Social Services, 5,927,432, -
+2022, Ethiopia, General Programme Assistance, 1,737,027, 1,700,000
+2022, Ethiopia, Transport and Storage, 966,512, 966,512
+2022, Ethiopia, Environment and Climate Change, 186,360, 186,360
+2022, Ethiopia, Water and Sanitation, 57,063, -
+2022, Ethiopia, Biosphere and Biodiversity, 47,421, 47,421
+2022, Ethiopia, Education, 35,121, -
+2022, Somalia, Total, 56,914,822, 43,836,615
+2022, Somalia, Construction and Civil Development, 20,750,033, 20,750,033
+2022, Somalia, Commodity Aid, 20,368,613, 17,723,506
+2022, Somalia, Social Services, 7,413,263, -
+2022, Somalia, Transport and Storage, 3,260,075, 3,260,075
+2022, Somalia, General Programme Assistance, 1,954,269, 1,498,141
+2022, Somalia, Water and Sanitation, 1,874,629, -
+2022, Somalia, Education, 865,389, 310,000
+2022, Somalia, Health, 428,551, 294,760
+2022, Sudan, Total, 37,864,116, 9,512,808
+2022, Sudan, Social Services, 14,600,047, 80,002
+2022, Sudan, Commodity Aid, 11,333,255, 2,096,919
+2022, Sudan, Health, 5,217,636, 5,104,661
+2022, Sudan, General Programme Assistance, 3,617,566, 301,164
+2022, Sudan, Education, 1,541,839, 1,083,154
+2022, Sudan, Water and Sanitation, 1,535,083, 828,221
+2022, Sudan, Government and Civil Society, 13,688, 13,688
+2022, Sudan, Biosphere and Biodiversity, 5,001, 5,001
+2022, Senegal, Total, 30,673,957, 14,596,019
+2022, Senegal, Social Services, 10,969,146, 2,001
+2022, Senegal, Industry, 7,500,000, 7,500,000
+2022, Senegal, Government and Civil Society, 5,320,822, 5,320,822
+2022, Senegal, Education, 2,285,292, 208,195
+2022, Senegal, Water and Sanitation, 1,893,114, -
+2022, Senegal, Health, 1,659,279, 1,560,000
+2022, Senegal, General Programme Assistance, 348,040, -
+2022, Senegal, Commodity Aid, 98,263, 5,001
+2022, Mauritania, Total, 28,645,322, 11,113,624
+2022, Mauritania, Social Services, 14,386,841, -
+2022, Mauritania, Industry, 8,780,068, 8,780,068
+2022, Mauritania, Water and Sanitation, 2,037,626, -
+2022, Mauritania, Transport and Storage, 1,331,337, 1,331,337
+2022, Mauritania, Health, 719,952, 529,047
+2022, Mauritania, Commodity Aid, 687,703, 426,260
+2022, Mauritania, Education, 666,760, 46,912
+2022, South Sudan, Total, 27,249,890, 27,249,890
+2022, South Sudan, Construction and Civil Development, 23,484,890, 23,484,890
+2022, South Sudan, General Programme Assistance, 3,760,000, 3,760,000
+2022, South Sudan, Biosphere and Biodiversity, 5,001, 5,001
+2022, Liberia, Total, 22,051,801, 21,627,456
+2022, Liberia, Health, 20,000,000, 20,000,000
+2022, Liberia, Social Services, 1,468,702, 1,200,012
+2022, Liberia, Energy Generation and Supply, 427,444, 427,444
+2022, Liberia, Water and Sanitation, 155,656, -
+2022, Afghanistan, Total, 21,986,675, 21,698,015
+2022, Afghanistan, Health, 16,226,286, 16,226,286
+2022, Afghanistan, Commodity Aid, 4,042,249, 3,893,602
+2022, Afghanistan, Construction and Civil Development, 600,000, 600,000
+2022, Afghanistan, Social Services, 577,071, 577,071
+2022, Afghanistan, General Programme Assistance, 530,057, 380,044
+2022, Afghanistan, Education, 21,011, 21,011
+2022, Niger, Total, 21,350,764, 165,883
+2022, Niger, Social Services, 16,234,324, -
+2022, Niger, Water and Sanitation, 3,079,805, -
+2022, Niger, Education, 395,001, 165,883
+2022, Niger, General Programme Assistance, 426,156, -
+2022, Niger, Commodity Aid, 254,690, -
+2022, Bangladesh, Total, 16,877,502, 1,525,473
+2022, Bangladesh, Social Services, 12,434,060, -
+2022, Bangladesh, Education, 1,301,376, 483,446
+2022, Bangladesh, Water and Sanitation, 1,196,290, -
+2022, Bangladesh, Peace and Security, 1,000,000, 1,000,000
+2022, Bangladesh, Health, 468,846, -
+2022, Bangladesh, Commodity Aid, 384,434, 27,226
+2022, Bangladesh, General Programme Assistance, 77,695, -
+2022, Bangladesh, Biosphere and Biodiversity, 14,802, 14,802
+2022, Uganda, Total, 10,235,145, 334,811
+2022, Uganda, Social Services, 8,591,571, -
+2022, Uganda, Water and Sanitation, 903,740, -
+2022, Uganda, Energy Generation and Supply, 315,818, 315,818
+2022, Uganda, Education, 257,237, -
+2022, Uganda, Commodity Aid, 101,114, -
+2022, Uganda, Health, 46,672, -
+2022, Uganda, Biosphere and Biodiversity, 18,993, 18,993
+2022, Burkina Faso, Total, 9,607,086, 16,502
+2022, Burkina Faso, Social Services, 7,672,294, -
+2022, Burkina Faso, Water and Sanitation, 1,437,714, -
+2022, Burkina Faso, Education, 291,270, -
+2022, Burkina Faso, Health, 123,299, -
+2022, Burkina Faso, Commodity Aid, 58,632, -
+2022, Burkina Faso, Biosphere and Biodiversity, 16,502, 16,502
+2022, Mali, Total, 8,798,419, 8,832
+2022, Mali, Social Services, 7,514,683, 2,001
+2022, Mali, Water and Sanitation, 754,638, -
+2022, Mali, Education, 290,329, 1,830
+2022, Mali, Commodity Aid, 172,425, 5,001
+2022, Mali, Health, 86,345, -
+2022, Benin, Total, 8,429,293, 115,972
+2022, Benin, Social Services, 6,118,707, -
+2022, Benin, Water and Sanitation, 1,564,868, 2,723
+2022, Benin, Education, 418,243, 54,451
+2022, Benin, Health, 156,193, -
+2022, Benin, Commodity Aid, 111,422, -
+2022, Benin, Biosphere and Biodiversity, 58,798, 58,798
+2022, Benin, Agriculture, 1,062, -
+2022, Togo, Total, 5,855,859, 2,779,744
+2022, Togo, Transport and Storage, 2,779,744, 2,779,744
+2022, Togo, Commodity Aid, 47,996, -
+2022, Togo, Social Services, 32,364, -
+2022, Togo, Education, 18,106, -
+2022, Togo, Commodity Aid, 10,003, 10,003
+2022, Togo, Biosphere and Biodiversity, 9,001, 9,001
+2022, Gambia, Total, 2,600,068, 367,680
+2022, Gambia, Education, 837,678, -
+2022, Gambia, Social Services, 751,899, -
+2022, Gambia, Commodity Aid, 427,058, 367,680
+2022, Gambia, Water and Sanitation, 297,199, -
+2022, Gambia, Energy Generation and Supply, 192,853, -
+2022, Gambia, Health, 91,271, -
+2022, Gambia, Agriculture, 2,110, -
+2022, Madagascar, Total, 1,549,142, 1,440,240
+2022, Madagascar, Transport and Storage, 1,440,240, 1,440,240
+2022, Madagascar, Social Services, 108,903, -
+2022, Nepal, Total, 1,301,829, 78,086
+2022, Nepal, Social Services, 541,065, -
+2022, Nepal, Water and Sanitation, 534,655, -
+2022, Nepal, Education, 89,638, 46,131
+2022, Nepal, Commodity Aid, 61,320, -
+2022, Nepal, Health, 43,197, -
+2022, Nepal, Biosphere and Biodiversity, 31,954, 31,954
+2022, Cambodia, Total, 1,295,366, 291,018
+2022, Cambodia, Education, 533,627, 263,792
+2022, Cambodia, Social Services, 398,997, -
+2022, Cambodia, Water and Sanitation, 302,779, -
+2022, Cambodia, Commodity Aid, 42,200, 27,226
+2022, Cambodia, Health, 12,154, -
+2022, Cambodia, General Programme Assistance, 5,608, -
+2022, Eritrea, Total, 910,000, 910,000
+2022, Eritrea, Energy Generation and Supply, 910,000, 910,000
+2022, Haiti, Total, 760,013, 760,013
+2022, Haiti, Energy Generation and Supply, 750,012, 750,012
+2022, Haiti, Biosphere and Biodiversity, 10,001, 10,001
+2022, Sierra Leone, Total, 742,371, -
+2022, Sierra Leone, Social Services, 433,891, -
+2022, Sierra Leone, Water and Sanitation, 275,123, -
+2022, Sierra Leone, Health, 28,291, -
+2022, Sierra Leone, Education, 2,996, -
+2022, Sierra Leone, Population Policy and Reproductive Health, 1,610, -
+2022, Sierra Leone, Commodity Aid, 460, -
+2022, DR Congo, Total, 506,359, -
+2022, DR Congo, Commodity Aid, 473,996, -
+2022, DR Congo, Social Services, 32364, -
+2022, Burundi, Total, 504,702, -
+2022, Mozambique, Total, 422,408, 383,223
+2022, Mozambique, Commodity Aid, 363,270, 363,270
+2022, Mozambique, Social Services, 39,185, -
+2022, Zambia, Total, 32,004, 32,004
+2022, Zambia, Biosphere and Biodiversity, 32,004, 32,004
+2022, Bhutan, Total, 11,402, 11,402
+2022, Bhutan, Biosphere and Biodiversity, 11,402, 11,402
+2022, Angola, Total, 5,001, 5,001
+2022, Angola, Biosphere and Biodiversity, 5,001, 5,001
+2022, Ethiopia, Total, 182,333,175, 175,981,277
+2022, Ethiopia, Commodity Aid, 89,725,873, 89,681,441
+2022, Ethiopia, Health, 77,120,228, 76,869,405
+2022, Ethiopia, Industry, 6,530,137, 6,530,137
+2022, Ethiopia, Social Services, 5,927,432, -
+2022, Ethiopia, General Programme Assistance, 1,737,027, 1,700,000
+2022, Ethiopia, Transport and Storage, 966,512, 966,512
+2022, Ethiopia, Environment and Climate Change, 186,360, 186,360
+2022, Ethiopia, Water and Sanitation, 57,063, -
+2022, Ethiopia, Biosphere and Biodiversity, 47,421, 47,421
+2022, Ethiopia, Education, 35,121, -
+2022, Uzbekistan, Total, 26,022,618, 25,914,881
+2022, Uzbekistan, Government and Civil Society, 14,533,267, 14,533,267
+2022, Uzbekistan, Health, 4,750,446, 4,750,446
+2022, Uzbekistan, Construction and Civil Development, 3,650,967, 3,650,967
+2022, Uzbekistan, Commodity Aid, 1,760,213, 1,662,478
+2022, Uzbekistan, Agriculture, 1,317,724, 1,317,724
+2022, Uzbekistan, Social Services, 10,003, -
+2022, Afghanistan, Total, 21,996,675, 21,698,015
+2022, Afghanistan, Health, 16,226,286, 16,226,286
+2022, Afghanistan, Commodity Aid, 4,042,249, 3,893,602
+2022, Afghanistan, Construction and Civil Development, 600,000, 600,000
+2022, Afghanistan, Social Services, 577,071, 577,071
+2022, Afghanistan, General Programme Assistance, 530,057, 380,044
+2022, Afghanistan, Education, 21,011, 21,011
+2022, Niger, Total, 21,350,764, 165,883
+2022, Niger, Social Services, 16,234,324, -
+2022, Niger, Water and Sanitation, 3,079,805, -
+2022, Niger, Education, 995,001, 165,883
+2022, Niger, General Programme Assistance, 426,156, -
+2022, Niger, Commodity Aid, 254,690, -
+2022, Niger, Health, 239,786, -
+2022, Niger, Construction and Civil Development, 121,003, -
+2022, Kyrgyzstan, Total, 19,208,800, 3,521,010
+2022, Kyrgyzstan, Social Services, 11,379,418, 81,677
+2022, Kyrgyzstan, Water and Sanitation, 3,820,312, 2,723
+2022, Kyrgyzstan, Transport and Storage, 1,625,374, 1,625,374
+2022, Kyrgyzstan, Government and Civil Society, 932,376, 932,376
+2022, Kyrgyzstan, Education, 658,421, 408,386
+2022, Kyrgyzstan, Health, 508,255, 456,862
+2022, Kyrgyzstan, General Programme Assistance, 211,271, -
+2022, Kyrgyzstan, Commodity Aid, 73,371, 13,613
+2022, Azerbaijan, Total, 15,652,228, 15,584,273
+2022, Azerbaijan, Energy Generation and Supply, 15,300,337, 15,300,337
+2022, Azerbaijan, Government and Civil Society, 283,936, 283,936
+2022, Azerbaijan, Commodity Aid, 54,451, -
+2022, Azerbaijan, Social Services, 13,504, -
+2022, Tajikistan, Total, 13,275,562, 1,229,964
+2022, Tajikistan, Water and Sanitation, 5,819,697, -
+2022, Tajikistan, Social Services, 3,905,406, 272,257
+2022, Tajikistan, Education, 1,701,970, 278,579
+2022, Tajikistan, Health, 1,490,080, 433,825
+2022, Tajikistan, Commodity Aid, 314,032, 200,925
+2022, Tajikistan, Industry, 44,378, 44,378
+2022, Uganda, Total, 10,235,145, 334,811
+2022, Uganda, Social Services, 8,591,571, -
+2022, Uganda, Water and Sanitation, 903,740, -
+2022, Uganda, Energy Generation and Supply, 315,818, 315,818
+2022, Uganda, Education, 257,237, -
+2022, Uganda, Commodity Aid, 101,114, -
+2022, Uganda, Health, 46,672, -
+2022, Burkina Faso, Total, 9,607,086, 16,502
+2022, Burkina Faso, Social Services, 7,672,294, -
+2022, Burkina Faso, Water and Sanitation, 1,437,714, -
+2022, Burkina Faso, Education, 291,270, -
+2022, Burkina Faso, Health, 123,299, -
+2022, Burkina Faso, Commodity Aid, 58,632, -
+2022, Burkina Faso, Biosphere and Biodiversity, 16,502, 16,502
+2022, Mali, Total, 8,798,419, 8,832
+2022, Mali, Social Services, 7,514,583, 2,001
+2022, Mali, Water and Sanitation, 754,638, -
+2022, Mali, Education, 290,329, 1,830
+2022, Mali, Commodity Aid, 172,425, 5,001
+2022, Mali, Health, 66,345, -
+2022, Chad, Total, 4,919,481, 2,819,769
+2022, Chad, Social Services, 1,839,223, -
+2022, Chad, Commodity Aid, 823,907, 823,907
+2022, Chad, Water and Sanitation, 219,133, -
+2022, Chad, Health, 41,356, -
+2022, Republic of North Macedonia, Total, 140,958, -
+2022, Republic of North Macedonia, Education, 140,958, -
+2022, Armenia, Total, 104,405, -
+2022, Armenia, Social Services, 104,405, -
+2022, Latvia, Total, 74,457, -
+2022, Latvia, Social Services, 74,457, -
+2022, Kazakhstan, Total, 4,246,551, 1,053,370
+2022, Kazakhstan, Social Services, 3,145,512, 84,678
+2022, Kazakhstan, Education, 495,825, 445,729
+2022, Kazakhstan, Commodity Aid, 415,210, 332,958
+2022, Kazakhstan, Health, 190,005, 190,005
+2022, Malawi, Total, 3,588,824, 365,854
+2022, Malawi, Social Services, 1,590,774, -
+2022, Malawi, Water and Sanitation, 1,114,248, -
+2022, Malawi, Commodity Aid, 593,432, 357,978
+2022, Malawi, Education, 255,414, 7,876
+2022, Malawi, Health, 4,956, -
+2022, Rwanda, Total, 2,870,319, 2,196,616
+2022, Rwanda, Transport and Storage, 2,172,611, 2,172,611
+2022, Rwanda, Education, 628,277, -
+2022, Rwanda, Social Services, 50,427, 5,001
+2022, Rwanda, Commodity Aid, 10,003, 10,003
+2022, Rwanda, Biosphere and Biodiversity, 9,001, 9,001
+2022, Nepal, Total, 1,301,829, 78,086
+2022, Nepal, Social Services, 541,065, -
+2022, Nepal, Water and Sanitation, 534,655, -
+2022, Nepal, Education, 89,638, 46,131
+2022, Nepal, Commodity Aid, 61,320, -
+2022, Nepal, Health, 43,197, -
+2022, Nepal, Biosphere and Biodiversity, 31,954, 31,954
+2022, Zimbabwe, Total, 618,852, 605,683
+2022, Zimbabwe, Commodity Aid, 600,681, 600,681
+2022, Zimbabwe, Social Services, 18,170, 5,001
+2022, Paraguay, Total, 604,226, 339,877
+2022, Paraguay, Education, 604,226, 339,877
+2022, Moldova, Total, 544,501, 490,049
+2022, Moldova, Commodity Aid, 544,501, 490,049
+2022, Burundi, Total, 504,702, -
+2022, Burundi, Education, 486,594, -
+2022, Burundi, Social Services, 18,108, -
+2022, Turkmenistan, Total, 162,478, 162,478
+2022, Turkmenistan, Commodity Aid, 162,478, 162,478
+2022, Zambia, Total, 32,004, 32,004
+2022, Zambia, Biosphere and Biodiversity, 32,004, 32,004
+2022, Bolivia, Total, 25,343, 25,343
+2022, Bolivia, Biosphere and Biodiversity, 25,343, 25,343
+2022, Bhutan, Total, 11,402, 11,402
+2022, Bhutan, Biosphere and Biodiversity, 11,402, 11,402
+2022, Botswana, Total, 5,001, 5,001
+2022, Botswana, Biosphere and Biodiversity, 5,001, 5,001
+2022, Maldives, Total, 44,755,888, 44,739,553
+2022, Maldives, Construction and Civil Development, 37,490,450, 37,490,450
+2022, Maldives, Transport and Storage, 4,271,748, 4,271,748
+2022, Maldives, Energy Generation and Supply, 2,700,000, 2,700,000
+2022, Maldives, Government and Civil Society, 277,355, 277,355
+2022, Maldives, Social Services, 16,335, -
+2022, Seychelles, Total, 4,282,464, 340,098
+2022, Seychelles, Health, 3,364,174, -
+2022, Seychelles, Energy Generation and Supply, 549,959, -
+2022, Seychelles, Government and Civil Society, 340,098, 340,098
+2022, Seychelles, Social Services, 21,781, -
+2022, Seychelles, Commodity Aid, 6,452, -
+2022, Comoros, Total, 3,167,480, 2,077,542
+2022, Comoros, Health, 1,938,550, 1,938,550
+2022, Comoros, Social Services, 981,830, 2,001
+2022, Comoros, Commodity Aid, 72,727, 5,001
+2022, Comoros, Energy Generation and Supply, 60,000, 60,000
+2022, Comoros, Education, 56,246, 53,339
+2022, Comoros, Water and Sanitation, 37,907, -
+2022, Comoros, General Programme Assistance, 18,051, 18,051
+2022, Comoros, Population Policy and Reproductive Health, 2,169, -
+2022, Guyana, Total, 1,059,009, 1,059,009
+2022, Guyana, Energy Generation and Supply, 750,011, 750,011
+2022, Guyana, Government and Civil Society, 308,997, 308,997
+2022, Haiti, Total, 760,013, 760,013
+2022, Haiti, Energy Generation and Supply, 750,012, 750,012
+2022, Haiti, Biosphere and Biodiversity, 10,001, 10,001
+2022, Jamaica, Total, 755,952, 755,952
+2022, Jamaica, Energy Generation and Supply, 748,707, 748,707
+2022, Jamaica, Biosphere and Biodiversity, 7,245, 7,245
+2022, Saint Kitts and Nevis, Total, 750,013, -
+2022, Saint Kitts and Nevis, Energy Generation and Supply, 750,013, -
+2022, Antigua and Barbuda, Total, 327,226, -
+2022, Antigua and Barbuda, Energy Generation and Supply, 327,226, -
+2022, Mauritius, Total, 220,035, 4,956
+2022, Mauritius, Social Services, 81,458, -
+2022, Mauritius, Commodity Aid, 56,849, -
+2022, Mauritius, Education, 52,987, -
+2022, Mauritius, Water and Sanitation, 13,876, -
+2022, Mauritius, Health, 7,242, -
+2022, Mauritius, Biosphere and Biodiversity, 4,956, 4,956
+2022, Mauritius, Agriculture, 2,667, -
+2022, Cuba, Total, 58,653, 28,644
+2022, Cuba, Social Services, 30,008, -
+2022, Cuba, Biosphere and Biodiversity, 28,644, 28,644
+2022, Cape Verde, Total, 19,058, -
+2022, Cape Verde, Social Services, 19,058, -
+2022, Vanuatu, Total, 16,502, 16,502
+2022, Vanuatu, Biosphere and Biodiversity, 16,502, 16,502
+2022, Suriname, Total, 14,452, 14,452
+2022, Suriname, Biosphere and Biodiversity, 14,452, 14,452
+2022, Fiji, Total, 11,003, 9,002
+2022, Fiji, Commodity Aid, 5,001, 5,001
+2022, Fiji, Social Services, 4,001, 2,001
+2022, Belize, Total, 7,041, 7,041
+2022, Belize, Education, 2,001, 2,001
+2022, Belize, Biosphere and Biodiversity, 7,041, 7,041
